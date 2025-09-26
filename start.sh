@@ -1,3 +1,2 @@
 #!/bin/bash
-python new.py
-
+python3 bot.py
